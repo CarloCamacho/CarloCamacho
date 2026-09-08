@@ -36,8 +36,16 @@ manager that runs them.
 
 ## Random pile of interests
 
-`Swift` · `Python` · `Tailscale` · `Home Assistant` · `Klipper` ·
-`Llama.cpp` · `Hyprland` · `Gaming` · `Music` · `Movies`
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-181717?logo=tailscale&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?logo=homeassistant&logoColor=white)
+![Klipper](https://img.shields.io/badge/Klipper-5A5A5A)
+![Llama.cpp](https://img.shields.io/badge/Llama.cpp-FF6C37)
+![Hyprland](https://img.shields.io/badge/Hyprland-2694D1?logo=hyprland&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-A855F7)
+![Music](https://img.shields.io/badge/Music-E4405F)
+![Movies](https://img.shields.io/badge/Movies-E50914)
 
 ## Say hi
 
