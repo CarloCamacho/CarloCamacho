@@ -36,8 +36,8 @@ manager that runs them.
 
 ## Random pile of interests
 
-`Swift` · `Lua` · `Python` · `C++` · `QML` · `Tailscale` · `Home Assistant` · `Klipper` ·
-`Local LLMs` · `Hyprland`
+`Swift` · `Python` · `Tailscale` · `Home Assistant` · `Klipper` ·
+`Llama.cpp` · `Hyprland` · `Gaming` · `Music` · `Movies`
 
 ## Say hi
 
