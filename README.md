@@ -4,17 +4,16 @@ A tech enthusiast and habitual hobby collector out of **Perth, Western Australia
 
 I use coding as a creative outlet and lately having been building small, 
 weirdly specific tools that make a Linux desktop feel like home. I enjoy tinkering
-with AI and exploring open source models that can run at home, including fine tuning. 
+with AI and exploring open source models including fine tuning. 
 
 ## What I make
 
-Recently been building **plugins for [Noctalia](https://noctalia.dev)** — plus contributing to the file
-manager that runs them.
+Recently been building **plugins for [Noctalia](https://noctalia.dev)** which has been fun:
 
 - 🛰 **[taildrop](https://github.com/CarloCamacho/noctalia-taildrop)** — yeet a file to any
   machine on your tailnet from a file manager's right-click menu.
-- 🤖 **[llama-swap](https://github.com/CarloCamacho/noctalia-llama-swap)** — one-click model load/unload
-- for your local LLM server, with some basic performance tracking. 
+- 🤖 **[llama-swap](https://github.com/CarloCamacho/noctalia-llama-swap)** — one-click model load/unload 
+  for your local LLM server, with some basic performance tracking. 
 - ☁️ **[onedrive](https://github.com/CarloCamacho/noctalia-onedrive)** — Basic OneDrive sync status
   with live progress, recent files, and pause/resume.
 - 📡 **[netcheck](https://github.com/CarloCamacho/noctalia-netcheck)** — ICMP, DNS and hop-by-hop
