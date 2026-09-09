@@ -17,6 +17,12 @@ manager that runs them.
 - for your local LLM server, with some basic performance tracking. 
 - ☁️ **[onedrive](https://github.com/CarloCamacho/noctalia-onedrive)** — Basic OneDrive sync status
   with live progress, recent files, and pause/resume.
+- 📡 **[netcheck](https://github.com/CarloCamacho/noctalia-netcheck)** — ICMP, DNS and hop-by-hop
+  network checks against your own targets, with a live latency graph.
+- 🗄️ **[restic-snapshots](https://github.com/CarloCamacho/noctalia-restic-snapshots)** — scheduled
+  restic backups with a snapshot browser, staging restore, and dry-run-gated retention.
+- ⚡ **[agent-harness](https://github.com/CarloCamacho/noctalia-agent-harness)** — hotkey a chat
+  bar, type the task, hit Enter, and pop out into a Pi or Hermes TUI seeded with your prompt.
 - 🗂 **[hyprfm](https://github.com/CarloCamacho/hyprfm)** — a lightweight Qt6/QML file manager
   for Hyprland.
 
